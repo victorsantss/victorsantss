@@ -1,6 +1,6 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Victor</h1>
 
-Accounting and Programming student looking for opportunities and collabaration in projects.
+Accounting and Programming student looking for opportunities and collaboration in projects.
 
 ## 🌱 I’m currently learning:
 
