@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Victor</h1>
 
-<!--
-**victorsantss/victorsantss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Accounting and Programming student looking for opportunities and collabaration in projects.
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![image](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![image](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+
+## 📫 How to reach me: 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Victor%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-santss/)](https://www.linkedin.com/in/victor-santss/)
+[![Gmail Badge](https://img.shields.io/badge/-victords895@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victords895@gmail.com)](mailto:victords895@gmail.com)
+![image](https://img.shields.io/badge/(54)%20996766505-25D366?style=flat-square&logo=whatsapp&logoColor=white)
