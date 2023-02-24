@@ -1,6 +1,6 @@
 <h1 align = "justify"> Hi, I am Victor</h1>
 
-Accounting and Programming student looking for opportunities and collaboration in projects.
+Accounting graduate and FullStack Developer proficient in React, JavaScript, PHP, and SQL, I am passionate about personal relationships, creativity, and innovation.
 
 ## 🌱 I’m currently learning:
 
